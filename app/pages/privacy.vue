@@ -75,10 +75,6 @@
         @apply text-xl mb-2;
     }
 
-    p {
-
-    }
-
     h3:not(:first-child) {
         @apply mt-6;
     }
