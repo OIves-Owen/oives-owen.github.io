@@ -8,11 +8,9 @@
 
             <p>
                 I may collect the following types of personal information: <br/>
-                Email address – used for account verification, important notifications, and customer support. <br/>
+                Email address – used for account verification and important app notifications. <br/>
                 Name or username – if applicable, for personalization. <br/>
-                Device information – such as device type or OS version, only to help troubleshoot bugs or improve performance. <br/>
             </p>
-
 
             <h3>How I Use Your Information</h3>
 
@@ -20,7 +18,6 @@
                 I only use your information for the following reasons: <br/>
                 To verify your identity when you sign up or log in. <br/>
                 To send you important notifications related to your account or app activity (not marketing). <br/>
-                To improve the apps by understanding technical issues or user behavior in aggregate (never in a way that identifies individuals). <br/>
                 To respond to your support requests. <br/>
             </p>
 
@@ -53,7 +50,7 @@
 
             <h3>Changes to This Policy</h3>
 
-            <p>If I make changes to this policy, I’ll let you know in the apps or via email (if it’s something important). I’ll always keep it clear and honest. </p>
+            <p>If I make changes to this policy, I’ll let you know in the apps or via email (if it’s something important). </p>
 
             <h3>Contact</h3>
 
